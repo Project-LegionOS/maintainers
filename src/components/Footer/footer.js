@@ -8,7 +8,7 @@ const Footer = () => {
 
           <p>
         Website by
-          <a className={style["footer-link"]} href="https://harshv23.cf "
+          <a className={style["footer-link"]} href="https://github.com/rajkale99 "
             >  <b>Raj Kale</b></a
           >
           <br />

@@ -52,7 +52,7 @@
   }
   
   .nav-links {
-    color: #fff;
+    color: #f14668;
     display: flex;
     align-items: center;
     text-decoration: none;
@@ -61,7 +61,8 @@
   }
   
   .nav-links:hover {
-    border-bottom: 4px solid #fff;
+    color: cyan;
+    border-bottom: 4px solid blue;
     transition: all 0.2s ease-out;
   }
   

@@ -8,3 +8,9 @@
   font-size: 20px;
   color: white;
 }
+.footer a {
+  color: #f14668;
+}
+.footer a:hover {
+  color:blue;
+}

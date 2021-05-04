@@ -22,7 +22,7 @@ const Contributor = () => {
       <div>
         <div>
             <div className={style["title"]}>
-              LEGIONOS TEAM
+             Team LegionOS
              </div>
             </div>
         </div>
