@@ -36,22 +36,22 @@ function Navbar() {
           </div>
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li className='nav-item'>
-              <Link to={{pathname:"https://legionos.org"}} target="_blank" className='nav-links' onClick={closeMobileMenu}>
+              <Link to={{pathname:"https://project-legionos.org"}} target="_blank" className='nav-links' onClick={closeMobileMenu}>
                 Home
               </Link>
               </li>
               <li className='nav-item'>
-              <Link to={{pathname:"https://blog.legionos.org"}} target="_blank" className='nav-links' onClick={closeMobileMenu}>
+              <Link to={{pathname:"https://blog.project-legionos.org"}} target="_blank" className='nav-links' onClick={closeMobileMenu}>
                 Blog
               </Link>
               </li>
               <li className='nav-item'>
-              <Link to={{pathname:"https://legionos.org/download"}} target="_blank" className='nav-links' onClick={closeMobileMenu}>
+              <Link to={{pathname:"https://download.project-legionos.org/"}} target="_blank" className='nav-links' onClick={closeMobileMenu}>
                 Downloads
               </Link>
               </li>
               <li className='nav-item'>
-              <Link to={{pathname:"https://legionos.org/stats"}} target="_blank" className='nav-links' onClick={closeMobileMenu}>
+              <Link to={{pathname:"https://project-legionos.org/stats"}} target="_blank" className='nav-links' onClick={closeMobileMenu}>
                 Stats
               </Link>
             </li>
